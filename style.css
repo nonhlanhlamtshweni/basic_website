@@ -1,0 +1,25 @@
+body {
+    background-image: url("Table-Mountain.jpg");
+    margin: 0;
+    padding: 0;
+    border: 0em;
+    border-radius: 1.2em;
+}
+.link {
+    margin: auto;
+    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-right: 30%;
+    text-align: center;
+}
+
+.link2 {
+    margin: auto;
+    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-left: 30%;
+}
+
+button {
+    background: transparent;
+}
